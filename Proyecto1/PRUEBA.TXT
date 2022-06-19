@@ -1,0 +1,29 @@
+INICIO
+56*9
+numero
+punto
+numero
+2
+numero_double
+-5<6
+13243
+78<=7
+78>0
+int==3
+56>=7
+7&&6
+boolean
+//hola123e
+False
+true
+" binen y tu "
+"hola"
+/* hola
+como 
+etsas*/
+5abc
+'6'
+:
+-7
+23.56
+FIN
